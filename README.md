@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Amos J. Hunt
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning Advanced SQL scripting
+- 📫 You can reach me at amos.j.hunt@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I've published a literary magazine called Grub Street Grackle
